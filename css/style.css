@@ -1,7 +1,18 @@
 
-
+section{
+    padding: 2rem 0;
+}
 .img1{
     width: 10%;
 
 
+}
+
+.bckg-img{
+     width: 100%;
+    background-image: url(../img/jumbo-bg.png);
+   background-size: cover;
+}
+.padd-top{
+    padding-top:200px;
 }
