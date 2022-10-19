@@ -54,5 +54,14 @@ section{
 .ps-plus-clr{
     background-color: #bebcbb;
 }
+.blue-clr{
+    background-color:#00439C;
+}
 
-
+.ul-ftr
+{
+    list-style: none;
+}
+.img-ftr {
+    width:40%
+}
