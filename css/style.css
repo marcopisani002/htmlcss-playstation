@@ -12,6 +12,9 @@ section{
 
 
 }
+.m-lf{
+    margin-left:84rem;
+} 
 .fixd
 {
     position: fixed;
