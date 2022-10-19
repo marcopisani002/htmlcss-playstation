@@ -39,6 +39,7 @@ section{
 .line-hvr :hover{
     border-bottom: 2px solid blue;
 }
+
 .bckg-img2{
     width: 100%;
    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
@@ -47,3 +48,11 @@ section{
 .padd-btm{
     margin: -3rem 0;
 }
+.ps-now-clr{
+    background-color: #161c3b;
+}
+.ps-plus-clr{
+    background-color: #bebcbb;
+}
+
+
