@@ -41,3 +41,6 @@ section{
    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
   background-size: cover;
 }
+.padd-btm{
+    margin: -3rem 0;
+}
