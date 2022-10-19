@@ -1,11 +1,24 @@
 
 section{
-    padding: 2rem 0;
+    padding: 3rem 0;
 }
 .img1{
     width: 10%;
 
 
+}
+.sec-jmb{
+   margin-top:7rem;
+
+
+}
+.fixd
+{
+    position: fixed;
+    top: 0%;
+    z-index: 1;
+    right: 0%;
+    left: 0%;
 }
 
 .bckg-img{
@@ -15,4 +28,16 @@ section{
 }
 .padd-top{
     padding-top:200px;
+}
+.padd-top2{
+    padding-top:50px;
+    text-align: center;
+}
+.line-hvr :hover{
+    border-bottom: 2px solid blue;
+}
+.bckg-img2{
+    width: 100%;
+   background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+  background-size: cover;
 }
