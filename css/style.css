@@ -13,7 +13,7 @@ section{
 
 }
 .m-lf{
-    margin-left:84rem;
+    margin-left:100rem;
 } 
 .fixd
 {
@@ -28,6 +28,7 @@ section{
      width: 100%;
     background-image: url(../img/jumbo-bg.png);
    background-size: cover;
+   background-position: center;
 }
 .padd-top{
     padding-top:200px;
@@ -44,6 +45,7 @@ section{
     width: 100%;
    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
   background-size: cover;
+  background-position: center;
 }
 .padd-btm{
     margin: -3rem 0;
